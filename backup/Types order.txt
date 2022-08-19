@@ -1,0 +1,17 @@
+           
+           TYPE  ID   TYPE CONTRAT  
+
+           TYPE 1 1 محاضرة 
+           TYPE 1 2 جمع وتدوين متن أدبي
+           TYPE 1 3 الاحتفاء بأجدير
+           TYPE 1 4 التنشيط
+           TYPE 1 5 جائزة الثقافة الأمازيغية
+           TYPE 2 6 تسجيل مادة أدبية وفنية
+           TYPE 2 7 لجنة تحكيم
+           TYPE 3 8 عقد بحث
+           TYPE 3 9 عقد الترجمة
+           TYPE 3 10 عقد إنجاز دعائم رقمية
+           TYPE 3 11 عــقد نـشــر
+           TYPE 3 12 عـقـد لخبرة إستشارية
+
+        (TO INSERT ON TYPES SECTION FOLLOW THIS ORDER)
